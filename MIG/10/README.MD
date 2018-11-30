@@ -82,7 +82,7 @@ Deploy 3 web-based applications (2 API's, one front end) to Azure Web Apps for C
 ## Learn More/Resources
 
 * [Use a custom Docker image for Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-custom-docker-image?WT.mc_id=ignitetour-github-mig10)
-* 
+
 
 
 
