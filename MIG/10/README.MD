@@ -1,4 +1,4 @@
-**NOTE:** This repo uses the same code as [DEV10](), so you should clone the source from [that repo](). Read down on this page for a little more info on how to setup the project in DEV10 for this session.
+**NOTE:** This repo uses the same code as [DEV10](https://github.com/microsoft/IgniteTheTour/tree/master/DEV%20-%20Building%20your%20Applications%20for%20the%20Cloud/DEV10), so you should clone the source from [that repo](https://github.com/microsoft/IgniteTheTour). Read down on this page for a little more info on how to setup the project in DEV10 for this session.
 
 # Migrating Web Applications To Azure
 _This project uses the exact same assets as DEV10. It focuses on deploying those assets to Azure with Azure Container Registry and Azure Web Apps for Containers._ 
